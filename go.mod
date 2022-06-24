@@ -1,4 +1,4 @@
-module tuanpham1993/aws-extended-client
+module tuanpham1993/aws_extended_client
 
 go 1.17
 
