@@ -1,4 +1,4 @@
-module github.com/tuanpham1993/aws-extended-client
+module github.com/tuanpham1993/sns-go-extended-client
 
 go 1.17
 
